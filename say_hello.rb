@@ -7,7 +7,7 @@ end
 
 
 
-#def tip_calculator(price, tip=0.2)
+#def tip_calculator(tip=0.2, price)
 tip_amount = price * tip_amount
 #total = price + tip amount
 #price
